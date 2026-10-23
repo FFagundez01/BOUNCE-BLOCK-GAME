@@ -1,9 +1,6 @@
 \# 🎮 \[BOUNCE BLOCK]
 
-
-![Demostración del Juego](Mi vídeo-1.gif)
-
-
+![Texto](gameplay.gif)
 
 
 Controlás un cubo que rebota entre paredes a velocidad creciente mientras esquivás enemigos que se acercan hacia tu posicion. Con un espacio de movimiento limitado y una dificultad que no deja de aumentar, el desafío es reaccionar, sobrevivir y superar tu propio límite.
