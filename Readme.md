@@ -1,8 +1,8 @@
 \# 🎮 \[BOUNCE BLOCK]
 
 
+![Demostración del Juego](Mi vídeo-1.gif)
 
-\[Banner o Captura de Pantalla](url\_de\_la\_imagen.png)
 
 
 
